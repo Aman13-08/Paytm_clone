@@ -13,17 +13,17 @@
 ***
 ## Description
 
-This project [Paytm Home Page]() was built using Semantic HTML and **Tailwind** from scratch. The official **Paytm** homepage have an issue in responsive design so I made a clone of the Paytm home page using Tailwind and fixed it. It took me close to 16 hours to make Paytm Home page clone. **Tailwind** is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in the markup. This project helped me a lot in understanding the basic yet effective Tailwind concepts. We just have to add our desired Css property in-form of classes and boom we got all the styling covered. The main learning after building this project is to make complex responsive design simpler and easier and faster with **Tailwindcss** screen breakpoints. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Paytm Home Page](https://paytm-page.netlify.app/) was built using Semantic HTML and **Tailwind** from scratch. The official **Paytm** homepage have an issue in responsive design so I made a clone of the Paytm home page using Tailwind and fixed it. It took me close to 16 hours to make Paytm Home page clone. **Tailwind** is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in the markup. This project helped me a lot in understanding the basic yet effective Tailwind concepts. We just have to add our desired Css property in-form of classes and boom we got all the styling covered. The main learning after building this project is to make complex responsive design simpler and easier and faster with **Tailwindcss** screen breakpoints. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://paytm-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/9wQOnEWbUv0)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Paytm_clone)
 
 ***
 ### Built With 
@@ -102,17 +102,16 @@ This project [Paytm Home Page]() was built using Semantic HTML and **Tailwind** 
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
 * [Github](https://github.com/ShubhamSingh03)
-* [Findcoder]()
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#paytm-home-page)
